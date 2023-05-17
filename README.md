@@ -8,15 +8,15 @@ Welcome to IT Help Desk Dashboard, a versatile tool for Active Directory (AD) ma
 
 For detailed information on how to use IT Help Desk Dashboard, dependencies, contribution guidelines, licensing, and contact information, please refer to the updated README.md file.
 
-=============================================
+======================================
              Desktop Dashboard
-=============================================
+======================================
 
 This README.txt file contains important information about the files included in this package and how to ensure the proper functioning of the application.
 
-=============================================
+======================================
             File Dependencies
-=============================================
+======================================
 
 Desktop Dashboard relies on the following files:
 
@@ -26,9 +26,9 @@ Desktop Dashboard relies on the following files:
 
 It is crucial to keep all three files together in the same directory or folder when using Desktop Dashboard. These files have interdependencies, and separating them may result in the application's API features not functioning correctly.
 
-=============================================
+======================================
            Installation Instructions
-=============================================
+======================================
 
 To install Desktop Dashboard, please follow these steps:
 
@@ -38,9 +38,9 @@ To install Desktop Dashboard, please follow these steps:
 
 Please note that running the application as an administrator is essential to ensure all features and functionalities work correctly.
 
-=============================================
+======================================
             Troubleshooting Tips
-=============================================
+======================================
 
 If you encounter any issues while using Desktop Dashboard, please try the following troubleshooting steps:
 
@@ -48,6 +48,3 @@ If you encounter any issues while using Desktop Dashboard, please try the follow
 2. Check that the files are not corrupted or modified. You may need to redownload or obtain a fresh copy of the files if necessary.
 3. Ensure that you have the necessary permissions to access the files and the directory where they are stored.
 4. If you experience any permission-related errors, try running the application as an administrator.
-
-
-
