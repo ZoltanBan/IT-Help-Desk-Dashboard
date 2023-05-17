@@ -8,7 +8,7 @@ Welcome to IT Help Desk Dashboard, a versatile tool for Active Directory (AD) ma
 
 For detailed information on how to use IT Help Desk Dashboard, dependencies, contribution guidelines, licensing, and contact information, please refer to the updated README.md file.
 
-======================================
+=====================================
              Desktop Dashboard
 ======================================
 
@@ -16,7 +16,7 @@ This README.txt file contains important information about the files included in 
 
 ======================================
             File Dependencies
-======================================
+=====================================
 
 Desktop Dashboard relies on the following files:
 
